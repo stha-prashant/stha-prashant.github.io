@@ -7,7 +7,7 @@ subtitle: <a href='https://www.naamii.org.np/'>Research Assitant, NAAMI</a>
 profile:
   align: left
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: 
 
 news: true # includes a list of news items
