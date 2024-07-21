@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: cv
 permalink: /cv/
 title: CV
@@ -8,4 +8,4 @@ cv_pdf: resume_new.pdf
 description: ""
 toc:
   sidebar: left
----
+--- -->
